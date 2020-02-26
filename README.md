@@ -1,4 +1,4 @@
 # Compiler
-Chez Scheme into x86 Assembly compiler 
+Chez Scheme into x86 Assembly compile,
 Ocaml based.
 
